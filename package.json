@@ -87,5 +87,8 @@
   "resolutions": {
     "@testing-library/dom": "^9.0.0",
     "@types/react": "18.2.7"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:8081/repository/npm-internal/"
   }
 }
